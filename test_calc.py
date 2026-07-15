@@ -1,4 +1,4 @@
-import pytest.raises
+import pytest
 from calc import *
 
 def test_add():
